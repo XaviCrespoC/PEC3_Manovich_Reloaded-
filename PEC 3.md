@@ -62,8 +62,7 @@ En el marco de la hibridación propuesta por Lev Manovich, resulta evidente que 
 ### Webgrafía
 - Imágenes:
   - Ableton AG, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons. Disponible en : https://upload.wikimedia.org/wikipedia/commons/2/2b/Ableton_logo.png
-
-  - 3D printer in the laboratory top view, 3D printer in the process. 3d printer close-up blue and orange backlight Por [ProstoSvet] Disponible en : https://stock.adobe.com/es/images/3d-printer-in-the-laboratory-top-view-3d-printer-in-the-process-3d-printer-close-up-blue-and-orange-backlight/449975559?prev_url=detail
+  - Jonathan Juursema, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons. Disponble en: https://upload.wikimedia.org/wikipedia/commons/b/b8/Felix_3D_Printer_-_Printing_Head.JPG
 
 -  "Ableton Live" en Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Ableton_Liv
 - "¿Qué es Live?" en Ableton Live. Disponible en: https://www.ableton.com/es/live/what-is-live/
