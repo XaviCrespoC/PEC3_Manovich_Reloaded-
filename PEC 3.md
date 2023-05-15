@@ -8,7 +8,7 @@ Fecha: 17/05/23
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/bR6WJjB/Ableton-logo.png" alt="Ableton-logo" border="0"></a>
 
-<a href="https://ibb.co/qNmZ1tK"><img src="https://i.ibb.co/m9hxzLk/Adobe-Stock-449975559.jpg" alt="Adobe-Stock-449975559" border="0"></a>
+<a href="https://ibb.co/bR0Vx1q"><img src="https://i.ibb.co/k67TpKk/Felix-3-D-Printer-Printing-Head.jpg" alt="Felix-3-D-Printer-Printing-Head" border="0"></a>
 
 ## Planteamiento
 
